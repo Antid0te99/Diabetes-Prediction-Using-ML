@@ -1,10 +1,9 @@
 
 This project predicts whether a person is diabetic based on medical diagnostic measurements using a machine learning model. The dataset used is the popular Pima Indians Diabetes Dataset.
 
-## Project Overview
+Project Overview
 
 The goal of this project is to build a prediction system that can classify a person as:
-
 - **1 → Diabetic**
 - **0 → Non-Diabetic**
 
@@ -47,6 +46,6 @@ Models used:
 
 A prediction system was implemented where you can manually input values such as:
 input = (1,85,66,29,0,26.6,0.351,31)
-after the input model predict if the persion is diabetic or not.
+after the input model predicts if the persion is diabetic or not.
 
 
